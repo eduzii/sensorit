@@ -12,7 +12,7 @@ def main():
         for row in sensor_data:
             print (row)
     else:
-        print("Error: Incorrect command line arguments.")
+        print("Error: Incorrect command line arguments")
 
 # This is the parse_limits function for getting the temperature
 # limits from the command line parameters. Returns an array
