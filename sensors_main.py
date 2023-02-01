@@ -1,3 +1,4 @@
+#hauska juttu
 import sys
 #tehdään jotain muutoksia
 # This is the main finction for controlling the flow of the
